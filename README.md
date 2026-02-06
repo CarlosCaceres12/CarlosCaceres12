@@ -1,52 +1,50 @@
 <div align="center">
-  <img src="banner-toji.png" width="100%" style="border-radius: 10px; box-shadow: 0px 5px 15px rgba(0,0,0,0.7);" alt="Banner Carlos Andrés Toji Theme"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Carlos%20Andrés&fontSize=80&fontAlignY=35&desc=Sorcerer%20Killer%20%7C%20Backend%20Specialist&descAlignY=60&descSize=22&animation=fadeIn&stroke=58a6ff" width="100%" alt="Toji Header"/>
 </div>
-
-<br>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Ingeniero+de+Software+en+Formaci%C3%B3n;Apasionado+por+el+Backend+%F0%9F%9A%80;Creando+soluciones+con+Python+y+Java" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=58a6ff&background=00000000&center=true&vCenter=true&width=600&lines=Restricci%C3%B3n+Celestial+Activada;Cazando+Bugs+con+Python+y+Java;Arquitectura+limpia,+fuerza+bruta" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <p>🔴 <b>Bogotá, Colombia</b> 🇨🇴</p>
-  <img src="https://komarev.com/ghpvc/?username=carloscaceres12&label=VISTAS+DEL+PERFIL&color=2b3137&style=for-the-badge&logo=github" alt="visitas" />
+  <p>🌑 <b>Base de Operaciones: Bogotá, Colombia</b> 🇨🇴</p>
+  <img src="https://komarev.com/ghpvc/?username=carloscaceres12&label=CONTRATOS+COMPLETADOS&color=000000&style=for-the-badge&logo=github" alt="visitas" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="opacity: 0.6;">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="filter: grayscale(100%);">
 </div>
 <br>
 
-## 👨‍💻 Sobre mí
+## ⚔️ Perfil de Combate (Sobre mí)
 
 <table>
   <tr>
-    <td width="60%" valign="center">
-      <h3>¡Hola! Soy Carlos 👋</h3>
+    <td width="60%" valign="top">
+      <h3>"No peleo con hechicería, peleo con lógica."</h3>
       <p align="justify">
-        Soy un estudiante y desarrollador enfocado en la arquitectura de software y el desarrollo del lado del servidor (<b>Backend</b>).
+        Al igual que <b>Toji Fushiguro</b>, no dependo de la suerte. Soy un desarrollador <b>Backend</b> enfocado en la eficiencia absoluta y la arquitectura robusta. Mi "Restricción Celestial" es simple: cambio la comodidad por disciplina técnica.
         <br><br>
-        Me distingo por ser una persona <b>altamente proactiva y disciplinada</b>. No solo escribo código, sino que busco entender el <i>"por qué"</i> de las cosas para crear soluciones eficientes y escalables.
+        Me especializo en derribar problemas complejos y construir soluciones escalables. Si el código no es rápido y seguro, no sirve.
       </p>
       <ul>
-        <li>🔭 <b>Actualmente trabajando en:</b> Proyectos robustos con <b>Spring Boot</b> y <b>Python</b>.</li>
-        <li>🌱 <b>Aprendiendo:</b> Arquitectura de microservicios y despliegue en la nube.</li>
-        <li>👯 <b>Busco colaborar en:</b> Proyectos Open Source y desarrollo de APIs.</li>
-        <li>⚡ <b>Filosofía:</b> <i>"La calidad del código es el reflejo de la calidad del pensamiento."</i></li>
+        <li>🗡️ <b>Arma Principal:</b> Desarrollo de alto calibre con <b>Spring Boot</b> y <b>Python</b>.</li>
+        <li>🧠 <b>Estrategia:</b> Arquitectura de microservicios y despliegue táctico en la nube.</li>
+        <li>🤝 <b>Alianzas:</b> Busco colaborar en proyectos Open Source (Contratos Mercenarios).</li>
+        <li>⚡ <b>Credo:</b> <i>"Ellos tienen el talento, yo tengo la preparación."</i></li>
       </ul>
       <br>
       <a href="mailto:carlosandres0913@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-Contactar_Ahora-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img src="https://img.shields.io/badge/GMAIL-CONTACTAR_MERCENARIO-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
       </a>
     </td>
     <td width="40%">
       <div align="center">
-        <img src="Toji.png" width="100%" style="border-radius: 15px; box-shadow: 5px 5px 15px rgba(0,0,0,0.5);" alt="Toji Fushiguro Programmer"/>
+        <img src="Toji.png" width="100%" style="border-radius: 10px; border: 3px solid #58a6ff; box-shadow: 0px 0px 20px rgba(0,0,0,0.8);" alt="Toji Programmer"/>
       </div>
     </td>
   </tr>
@@ -55,65 +53,66 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="opacity: 0.6;">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="filter: grayscale(100%);">
 </div>
 <br>
 
-## 📚 Mi Ruta de Aprendizaje
+## 📚 Entrenamiento Físico (Ruta de Aprendizaje)
 
-He estructurado mi formación para dominar tanto los fundamentos como las herramientas modernas:
+He perfeccionado mis habilidades para no depender de nadie. Mi arsenal incluye:
 
-| 🧠 Fundamentos y Lógica | 💻 Backend y Servidores | 🗄️ Datos y Herramientas |
+| 🦾 Fuerza Bruta (Fundamentos) | ⚔️ Herramientas Malditas (Backend) | 🗄️ Almacenamiento (Datos) |
 | :--- | :--- | :--- |
-| ✅ Lógica de Programación | ☕ **Java (Avanzado)** | 🐬 **MySQL** |
-| 🐍 **Python** (Scripting) | 🍃 **Spring Boot** | 🐘 **PostgreSQL** |
+| ✅ Lógica de Combate (Prog.) | ☕ **Java (Grado Especial)** | 🐬 **MySQL** |
+| 🐍 **Python** (Sigilo/Scripting) | 🍃 **Spring Boot** | 🐘 **PostgreSQL** |
 | 🌐 HTML5 & CSS3 | 🧱 Arquitectura MVC | 🐙 **Git & GitHub** |
-| ⚡ JavaScript (ES6+) | 🔌 Desarrollo de APIs REST | 🐧 Linux (Terminal) |
-| 🔄 Metodologías Ágiles (Scrum) | 🔒 Seguridad Básica | 🐳 Docker (En proceso) |
+| ⚡ JavaScript (ES6+) | 🔌 APIs REST Letales | 🐧 Linux (Terminal) |
+| 🔄 Tácticas Ágiles (Scrum) | 🔒 Seguridad Defensiva | 🐳 Docker (En entrenamiento) |
 
 <br>
 
-## 🛠️ Tecnologías y Herramientas
+## 🎒 Maldición de Inventario (Tech Stack)
 
 ### > Lenguajes Principales
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,c&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,c&perline=10&theme=dark" />
 </div>
 
 ### > Backend y Bases de Datos
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,mongodb&perline=10" />
+  <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,mongodb&perline=10&theme=dark" />
 </div>
 
-### > Herramientas y Entorno
+### > Entorno de Batalla
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,html,css,postman&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,html,css,postman&perline=10&theme=dark" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="opacity: 0.6;">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="filter: grayscale(100%);">
 </div>
 
-## 🌐 Conecta conmigo
+## 🌐 Red de Información
 
 <div align="center">
   <a href="https://www.linkedin.com/in/carlos-caceres-aa3285264/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" height="35" />
   </a>
   <a href="https://github.com/CarlosCaceres12" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Seguir-2b3137?style=for-the-badge&logo=github&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/GitHub-Seguir-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" height="35" />
   </a>
    <a href="https://x.com/heroccroshh" target="_blank">
-    <img src="https://img.shields.io/badge/X-Seguir-000000?style=for-the-badge&logo=x&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/X-Seguir-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=101010" height="35" />
   </a>
   <a href="https://www.instagram.com/andrescaceres_4/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010" height="35" />
   </a>
 </div>
 
 <br>
+<p align="center" style="color: #666;">Copyright © 2026 Carlos Andrés | Zenin Clan Reject</p>
 <p align="center">Copyright © 2026 Carlos Andrés Cáceres Orduz</p>
 <br>
 <p align="center" style="color: #666;">Copyright © 2026 Carlos Andrés | Zenin Clan Reject</p>
