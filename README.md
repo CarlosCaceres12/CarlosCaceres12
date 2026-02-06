@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <p>🔴 <b>Bogotá, Colombia</b> 🇨🇴</p>
+  <p>🔴 <b>Bucaramanga, Colombia</b> 🇨🇴</p>
   <img src="https://komarev.com/ghpvc/?username=carloscaceres12&label=VISTAS+DEL+PERFIL&color=0e75b6&style=for-the-badge&logo=github" alt="visitas" />
 </div>
 
