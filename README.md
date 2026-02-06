@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <p>🔴 <b>Bucaramanga, Colombia</b> 🇨🇴</p>
+  <p>🔴 <b>Bogotá, Colombia</b> 🇨🇴</p>
   <img src="https://komarev.com/ghpvc/?username=carloscaceres12&label=VISTAS+DEL+PERFIL&color=0e75b6&style=for-the-badge&logo=github" alt="visitas" />
 </div>
 
@@ -44,7 +44,7 @@
     </td>
     <td width="40%">
       <div align="center">
-        <img src="PEGA_TU_ENLACE_AQUI" width="100%" style="border-radius: 15px; box-shadow: 5px 5px 15px rgba(0,0,0,0.5);" alt="Toji Fushiguro Programmer"/>
+        <img src="PEGA_AQUI_EL_LINK_DE_LA_FOTO_DE_TOJI" width="100%" style="border-radius: 15px; box-shadow: 5px 5px 15px rgba(0,0,0,0.5);" alt="Toji Fushiguro Programmer"/>
       </div>
     </td>
   </tr>
@@ -134,6 +134,9 @@ He estructurado mi formación para dominar tanto los fundamentos como las herram
     <img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
   </a>
 </div>
+
+<br>
+<p align="center">Copyright © 2026 Carlos Andrés Cáceres Orduz</p>
 
 <br>
 <p align="center">Copyright © 2026 Carlos Andrés Cáceres Orduz</p>
