@@ -116,5 +116,3 @@ He perfeccionado mis habilidades para no depender de nadie. Mi arsenal incluye:
 <br>
 <p align="center" style="color: #666;">Copyright © 2026 Carlos Andrés | Zenin Clan Reject</p>
 
-<br>
-<p align="center" style="color: #666;">Copyright © 2026 Carlos Andrés | Zenin Clan Reject</p>
