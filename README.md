@@ -44,7 +44,7 @@
     </td>
     <td width="40%">
       <div align="center">
-        <img src="PEGA_AQUI_EL_LINK_DE_LA_FOTO_DE_TOJI" width="100%" style="border-radius: 15px; box-shadow: 5px 5px 15px rgba(0,0,0,0.5);" alt="Toji Fushiguro Programmer"/>
+        <img src="Toji.png" width="100%" style="border-radius: 15px; box-shadow: 5px 5px 15px rgba(0,0,0,0.5);" alt="Toji Fushiguro Programmer"/>
       </div>
     </td>
   </tr>
