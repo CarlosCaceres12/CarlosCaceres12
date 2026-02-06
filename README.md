@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3382F7&background=00000000&center=true&vCenter=true&width=600&lines=Restricci%C3%B3n+Celestial+Activada;Desarrollador+Backend+%7C+Python+y+Java;Arquitectura+Limpia+%2B+Fuerza+Bruta" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3382F7&background=00000000&center=true&vCenter=true&width=600&lines=Restricci%C3%B3n+Celestial+Activada;Perfil+de+la+m%C3%A1s+alta+calidad+%E2%9C%A8;No+acepto+brazo+de+35cm+%F0%9F%92%AA;Cazando+Bugs+con+Python+y+Java" alt="Typing SVG" />
   </a>
 </div>
 
@@ -114,5 +114,5 @@ He perfeccionado mis habilidades para no depender de nadie. Mi arsenal incluye:
 </div>
 
 <br>
-<p align="center" style="color: #666;">Copyright © 2026 Carlos Andrés | Zenin Clan Reject</p>drés | Zenin Clan Reject</p>/p>
+<p align="center" style="color: #666;">Copyright © 2026 Carlos Andrés | Zenin Clan Reject</p>
 
