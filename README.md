@@ -99,17 +99,11 @@ He estructurado mi formación para dominar tanto los fundamentos como las herram
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=carloscaceres12&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117" height="180" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=carloscaceres12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloscaceres12&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117" height="180" alt="Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloscaceres12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Langs" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carloscaceres12&theme=tokyonight&hide_border=false&background=0D1117" alt="Streak" />
 </div>
 
 <br>
@@ -134,9 +128,6 @@ He estructurado mi formación para dominar tanto los fundamentos como las herram
     <img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
   </a>
 </div>
-
-<br>
-<p align="center">Copyright © 2026 Carlos Andrés Cáceres Orduz</p>
 
 <br>
 <p align="center">Copyright © 2026 Carlos Andrés Cáceres Orduz</p>
