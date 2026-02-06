@@ -44,7 +44,7 @@
     </td>
     <td width="40%">
       <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-febdf1f5-903a-430c-9239-e98f0c4701b8.svg" width="100%" alt="Icono 3D"/>
+        <img src="https://imgur.com/a/QKBNirs" width="100%" style="border-radius: 15px; box-shadow: 5px 5px 15px rgba(0,0,0,0.5);" alt="Toji Fushiguro Programmer"/>
       </div>
     </td>
   </tr>
