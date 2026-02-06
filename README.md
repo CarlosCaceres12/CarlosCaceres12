@@ -36,7 +36,10 @@
 ## 🛠️ Stack Tecnológico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,postgres,spring,git,linux" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 
 ---
@@ -76,4 +79,8 @@
   <a href="https://www.instagram.com/andrescaceres_4/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</div>arrollo de software 🚀
+</div>
+
+<br>
+
+Desarrollo de software 🚀
