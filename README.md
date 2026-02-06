@@ -1,18 +1,15 @@
 <div align="center">
-  <img src="https://i.imgur.com/Pe15n2T.png" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Banner Tech Abstracto"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Carlos%20Andrés&fontSize=60&fontAlignY=40&desc=Desarrollador%20Backend%20&%20Python%20|%20Formación%20Continua%20🚀&descAlignY=65&descSize=20&fontColor=ffffff" width="100%" style="border-radius: 10px" alt="Banner Header"/>
 </div>
 
-<h1 align="center">Hola, soy Carlos Andrés Cáceres Orduz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hi"></h1>
-
-<div align="center">
-  <h3 style="color: #c9d1d9;">Desarrollador Backend & Python | Formación Continua 🚀</h3>
-  <img src="https://komarev.com/ghpvc/?username=carloscaceres12&label=PROFILE+VIEWS&color=23272d&style=for-the-badge&logo=github" alt="visitas" />
+<div align="center" style="margin-top: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=carloscaceres12&label=VISTAS+DEL+PERFIL&color=23272d&style=for-the-badge&logo=github" alt="visitas" />
+  <h3 style="color: #c9d1d9;">👋 ¡Hola! Construyo soluciones eficientes en el Backend.</h3>
 </div>
 
 <br>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-98a7-4541-9154-cae730a0b42d.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-98a7-4541-9154-cae730a0b42d.gif" width="100%" style="opacity: 0.5">
 </div>
 <br>
 
@@ -21,8 +18,8 @@
 <table>
   <tr>
     <td width="60%" valign="center">
-      <p style="font-size: 1.1rem;">
-        Soy un desarrollador en formación apasionado por crear soluciones eficientes en el <b>Backend</b>. Me defino por mi mentalidad <b>proactiva, colaborativa y mi curiosidad intelectual</b> constante.
+      <p style="font-size: 1.05rem;">
+        Soy un desarrollador en formación con una gran pasión por la tecnología. Me defino por mi mentalidad <b>proactiva, colaborativa y mi curiosidad intelectual</b> constante.
       </p>
       <br>
       <ul>
@@ -40,7 +37,7 @@
     </td>
     <td width="40%">
       <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-febdf1f5-903a-430c-9239-e98f0c4701b8.svg" width="100%" alt="Isometric Developer"/>
+        <img src="https://raw.githubusercontent.com/platzi/datasets/master/images/undraw_developer_activity_bv83.svg" width="90%" alt="Developer Illustration"/>
       </div>
     </td>
   </tr>
@@ -48,7 +45,7 @@
 
 <br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-98a7-4541-9154-cae730a0b42d.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-98a7-4541-9154-cae730a0b42d.gif" width="100%" style="opacity: 0.5">
 </div>
 <br>
 
@@ -91,7 +88,7 @@ He completado una trayectoria intensiva enfocada en fundamentos sólidos y tecno
 
 <br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-98a7-4541-9154-cae730a0b42d.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-98a7-4541-9154-cae730a0b42d.gif" width="100%" style="opacity: 0.5">
 </div>
 <br>
 
@@ -116,7 +113,7 @@ He completado una trayectoria intensiva enfocada en fundamentos sólidos y tecno
 
 <br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-98a7-4541-9154-cae730a0b42d.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-98a7-4541-9154-cae730a0b42d.gif" width="100%" style="opacity: 0.5">
 </div>
 <br>
 
@@ -125,20 +122,21 @@ He completado una trayectoria intensiva enfocada en fundamentos sólidos y tecno
 <div align="center">
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloscaceres12&show_icons=true&theme=tokyonight&hide_border=false&bg_color=23272d&border_radius=10" alt="Estadísticas Generales"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carloscaceres12&show_icons=true&theme=stripped&hide_border=true" alt="Estadísticas Generales"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloscaceres12&layout=compact&theme=tokyonight&hide_border=false&bg_color=23272d&border_radius=10" alt="Lenguajes Top"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloscaceres12&layout=compact&theme=stripped&hide_border=true" alt="Lenguajes Top"/>
     </a>
   </p>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=carloscaceres12&theme=tokyonight&hide_border=false&background=23272d&border_radius=10" alt="Racha de Contribuciones" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=carloscaceres12&theme=stripped&hide_border=true" alt="Racha de Contribuciones" />
   </p>
+  <p style="font-size: 0.8rem; color: #7d8590;">* Si las estadísticas no cargan, es un problema temporal del servidor externo.</p>
 </div>
 
 <br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-98a7-4541-9154-cae730a0b42d.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-98a7-4541-9154-cae730a0b42d.gif" width="100%" style="opacity: 0.5">
 </div>
 <br>
 
@@ -146,16 +144,16 @@ He completado una trayectoria intensiva enfocada en fundamentos sólidos y tecno
 
 <div align="center">
   <a href="https://www.linkedin.com/in/carlos-caceres-aa3285264/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="https://github.com/CarlosCaceres12" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-23272d?style=for-the-badge&logo=github&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/GitHub-23272d?style=for-the-badge&logo=github&logoColor=white" height="35" />
   </a>
    <a href="https://x.com/heroccroshh" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35" />
   </a>
   <a href="https://www.instagram.com/andrescaceres_4/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
   </a>
 </div>
 
