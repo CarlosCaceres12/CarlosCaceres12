@@ -1,24 +1,22 @@
 <div align="center">
-  <img src="banner-toji.png" width="100%" style="border-radius: 10px; box-shadow: 0px 5px 15px rgba(0,0,0,0.7);" alt="Banner Carlos Andrés Toji Theme"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Carlos%20Andrés&fontSize=80&fontAlignY=35&desc=Desarrollador%20Backend%20%7C%20Python%20&%20Java&descAlignY=60&descSize=22&animation=fadeIn&stroke=ffffff" width="100%" alt="Banner Principal"/>
 </div>
-
-<br>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Ingeniero+de+Software+en+Formaci%C3%B3n;Apasionado+por+el+Backend+%F0%9F%9A%80;Creando+soluciones+con+Python+y+Java" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=3382F7&center=true&vCenter=true&width=600&lines=Ingeniero+de+Software+en+Formaci%C3%B3n;Apasionado+por+el+Backend+%F0%9F%9A%80;Creando+soluciones+con+Python+y+Java" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <p>🔴 <b>Bogotá, Colombia</b> 🇨🇴</p>
-  <img src="https://komarev.com/ghpvc/?username=carloscaceres12&label=VISTAS+DEL+PERFIL&color=2b3137&style=for-the-badge&logo=github" alt="visitas" />
+  <img src="https://komarev.com/ghpvc/?username=carloscaceres12&label=VISTAS+DEL+PERFIL&color=0e75b6&style=for-the-badge&logo=github" alt="visitas" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="opacity: 0.6;">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 <br>
 
@@ -55,7 +53,7 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="opacity: 0.6;">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 <br>
 
@@ -93,7 +91,7 @@ He estructurado mi formación para dominar tanto los fundamentos como las herram
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="opacity: 0.6;">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 ## 🌐 Conecta conmigo
@@ -103,7 +101,7 @@ He estructurado mi formación para dominar tanto los fundamentos como las herram
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="https://github.com/CarlosCaceres12" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Seguir-2b3137?style=for-the-badge&logo=github&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/GitHub-Seguir-100000?style=for-the-badge&logo=github&logoColor=white" height="35" />
   </a>
    <a href="https://x.com/heroccroshh" target="_blank">
     <img src="https://img.shields.io/badge/X-Seguir-000000?style=for-the-badge&logo=x&logoColor=white" height="35" />
