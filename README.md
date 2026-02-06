@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Carlos%20Andrés&fontSize=80&fontAlignY=35&desc=Sorcerer%20Killer%20%7C%20Backend%20Specialist&descAlignY=60&descSize=22&animation=fadeIn&stroke=58a6ff" width="100%" alt="Toji Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=260&section=header&text=Carlos%20Andrés&fontSize=80&fontAlignY=35&desc=Sorcerer%20Killer%20%7C%20Backend%20Dev&descAlignY=60&descSize=22&animation=fadeIn&stroke=3382F7" width="100%" alt="Banner Principal"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=58a6ff&background=00000000&center=true&vCenter=true&width=600&lines=Restricci%C3%B3n+Celestial+Activada;Cazando+Bugs+con+Python+y+Java;Arquitectura+limpia,+fuerza+bruta" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=3382F7&center=true&vCenter=true&width=600&lines=Restricci%C3%B3n+Celestial+Activada+%E2%9A%94%EF%B8%8F;Sin+Energ%C3%ADa+Maldita,+Solo+C%C3%B3digo+Puro;Cazando+Bugs+con+Python+y+Java" alt="Typing SVG" />
   </a>
 </div>
 
