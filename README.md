@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="Toji.gif" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(51, 130, 247, 0.6);" alt="Toji Fushiguro Banner"/>
+  <img src="https://github.com/CarlosCaceres12/CarlosCaceres12/blob/main/Toji.gif?raw=true" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(51, 130, 247, 0.6);" alt="Toji Fushiguro Banner"/>
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=58a6ff&background=00000000&center=true&vCenter=true&width=600&lines=Restricci%C3%B3n+Celestial+Activada;Cazando+Bugs+con+Python+y+Java;Arquitectura+limpia,+fuerza+bruta" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3382F7&background=00000000&center=true&vCenter=true&width=600&lines=Restricci%C3%B3n+Celestial+Activada;Desarrollador+Backend+%7C+Python+y+Java;Arquitectura+Limpia+%2B+Fuerza+Bruta" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <p>🌑 <b>Base de Operaciones: Bogotá, Colombia</b> 🇨🇴</p>
+  <p>🌑 <b>Base de Operaciones: Bucaramanga, Colombia</b> 🇨🇴</p>
   <img src="https://komarev.com/ghpvc/?username=carloscaceres12&label=CONTRATOS+COMPLETADOS&color=000000&style=for-the-badge&logo=github" alt="visitas" />
 </div>
 
@@ -31,7 +31,7 @@
       <p align="justify">
         Al igual que <b>Toji Fushiguro</b>, no dependo de la suerte. Soy un desarrollador <b>Backend</b> enfocado en la eficiencia absoluta y la arquitectura robusta. Mi "Restricción Celestial" es simple: cambio la comodidad por disciplina técnica.
         <br><br>
-        Me especializo en derribar problemas complejos y construir soluciones escalables. Si el código no es rápido y seguro, no sirve.
+        Me especializo en derribar problemas complejos y construir soluciones escalables desde mi base en <b>Bucaramanga</b>. Si el código no es rápido y seguro, no sirve.
       </p>
       <ul>
         <li>🗡️ <b>Arma Principal:</b> Desarrollo de alto calibre con <b>Spring Boot</b> y <b>Python</b>.</li>
@@ -114,5 +114,5 @@ He perfeccionado mis habilidades para no depender de nadie. Mi arsenal incluye:
 </div>
 
 <br>
-<p align="center" style="color: #666;">Copyright © 2026 Carlos Andrés | Zenin Clan Reject</p>/p>
+<p align="center" style="color: #666;">Copyright © 2026 Carlos Andrés | Zenin Clan Reject</p>drés | Zenin Clan Reject</p>/p>
 
