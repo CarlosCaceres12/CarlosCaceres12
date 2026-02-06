@@ -44,7 +44,7 @@
     </td>
     <td width="40%">
       <div align="center">
-        <img src="https://imgur.com/a/QKBNirs" width="100%" style="border-radius: 15px; box-shadow: 5px 5px 15px rgba(0,0,0,0.5);" alt="Toji Fushiguro Programmer"/>
+        <img src="https://i.imgur.com/QKBNirs.jpg" width="100%" style="border-radius: 15px; box-shadow: 5px 5px 15px rgba(0,0,0,0.5);" alt="Toji Fushiguro Programmer"/>
       </div>
     </td>
   </tr>
