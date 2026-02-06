@@ -93,24 +93,6 @@ He estructurado mi formación para dominar tanto los fundamentos como las herram
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
-<br>
-
-## 📊 Mi Actividad en GitHub
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=carloscaceres12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloscaceres12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Langs" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
 
 ## 🌐 Conecta conmigo
 
